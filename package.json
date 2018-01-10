@@ -1,6 +1,6 @@
 {
-  "name": "lunsj-cli",
-  "version": "1.0.0",
+  "name": "@foxpublish/lunsj-cli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
